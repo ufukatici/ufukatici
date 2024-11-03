@@ -41,9 +41,9 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/ufukatici/ufukatici/output/snake.svg" alt="Snake animation" />
+![snake gif](https://github.com/ufukatici/ufukatici>/blob/output/github-contribution-grid-snake.svg)
 
-![snake gif](https://github.com/ufukatici/ufukatici/blob/output/snake.svg)
+
 ###
 
 <div align="center">
