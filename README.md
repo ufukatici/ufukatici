@@ -41,15 +41,13 @@
 
 ###
 
-![snake gif](https://github.com/ufukatici/ufukatici/blob/output/github-contribution-grid-snake.svg)
-
+<img src="https://raw.githubusercontent.com/ufukatici/ufukatici/output/snake.svg" alt="Snake animation" />
 
 ###
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/ufukatici/count.svg?"  />
 </div>
-
 
 ###
 
